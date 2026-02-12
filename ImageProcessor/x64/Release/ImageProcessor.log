@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+     Creating library D:\005coding\3DHISTECHhomework\x64\Release\ImageProcessor.lib and object D:\005coding\3DHISTECHhomework\x64\Release\ImageProcessor.exp
+  Generating code
+  44 of 183 functions (24.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ImageProcessor.vcxproj -> D:\005coding\3DHISTECHhomework\x64\Release\ImageProcessor.dll

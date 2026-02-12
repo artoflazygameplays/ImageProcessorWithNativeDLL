@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYfnFHMT/sM=",
+  "success": true,
+  "projectFilePath": "D:\\005coding\\3DHISTECHhomework\\3DHISTECHhomework.Server\\3DHISTECHhomework.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matep\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\matep\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\10.0.3\\microsoft.aspnetcore.spaproxy.10.0.3.nupkg.sha512",
+    "C:\\Users\\matep\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\matep\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\matep\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.2\\swashbuckle.aspnetcore.10.1.2.nupkg.sha512",
+    "C:\\Users\\matep\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.2\\swashbuckle.aspnetcore.swagger.10.1.2.nupkg.sha512",
+    "C:\\Users\\matep\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.2\\swashbuckle.aspnetcore.swaggergen.10.1.2.nupkg.sha512",
+    "C:\\Users\\matep\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.2\\swashbuckle.aspnetcore.swaggerui.10.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

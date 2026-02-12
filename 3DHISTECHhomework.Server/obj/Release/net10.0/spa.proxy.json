@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:58698",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\005coding\\3DHISTECHhomework\\3DHISTECHhomework.Server\\..\\3dhistechhomework.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
