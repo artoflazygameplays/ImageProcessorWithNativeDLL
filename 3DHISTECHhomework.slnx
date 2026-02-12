@@ -1,0 +1,19 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="DOC.md" />
+  </Folder>
+  <Project Path="3dhistechhomework.client/3dhistechhomework.client.esproj">
+    <Platform Project="AnyCPU" />
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="3DHISTECHhomework.Server/3DHISTECHhomework.Server.csproj">
+    <BuildDependency Project="ImageProcessor/ImageProcessor.vcxproj" />
+  </Project>
+  <Project Path="ImageProcessor/ImageProcessor.vcxproj" Id="992d194e-09ea-4ec9-8249-32398273a76a" />
+</Solution>

@@ -1,0 +1,25 @@
+<body>
+  <img src="/BackGround.png"
+       style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1;"
+       alt="Background" />
+
+  <div class="container">
+    <header class="header">
+      <img src="/Logo.png" alt="3DHISTECH logo" class="logo" />
+    </header>
+
+    <h2>Image Processing Demo</h2>
+
+    <div class="controls">
+      <input type="file" (change)="onFileSelected($event)" />
+      <select [(ngModel)]="encoding">
+        <option [ngValue]="EncodingType.Png">PNG</option>
+        <option [ngValue]="EncodingType.Jpeg">JPEG</option>
+      </select>
+    </div>
+    <button (click)="upload()">Process</button>
+    <img *ngIf="resultImage" [src]="resultImage" class="result" />
+    <button *ngIf="resultImage" (click)="download()">Download</button>
+
+  </div>
+</body>
